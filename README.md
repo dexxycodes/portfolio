@@ -1,2 +1,2 @@
 # portfolio
-First try at making a portfolio for Colorado
+First try at making a portfolio
